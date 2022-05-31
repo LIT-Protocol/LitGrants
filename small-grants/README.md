@@ -18,19 +18,18 @@ We may also contact you about promoting the resulting work, including coverage o
 
 ## Examples of Small Grants Projects
 1. Technical Protocol Improvements
-To make it easier for future builders, we need a rich set of tooling and integrations. Some examples:
-
-Infrastructure tooling (node, validator node monitoring)
-General development
+* To make it easier for future builders, we need a rich set of tooling and integrations. Some examples:
+* Infrastructure tooling (node, validator node monitoring)
+* General development
 
 2. New Use Cases & Products
-MVPs
+* MVPs
 
 3. Community Contributions
-Creating content (guides, translations, blogs, documentation)
-Producing educational material (explanative blogs, ELI5 threads, videos)
-Creativity - stickers and memes
-Community meetups (online or in person)
+* Creating content (guides, translations, blogs, documentation)
+* Producing educational material (explanative blogs, ELI5 threads, videos)
+* Creativity - stickers and memes
+* Community meetups (online or in person)
 
 ## Timeline
 Grants are reviewed on a rolling basis, you should hear back within 2 weeks.
