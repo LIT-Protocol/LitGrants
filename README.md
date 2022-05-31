@@ -1,9 +1,21 @@
-# LitGrants
+# Lit Grants
 
-The Lit Grant Program is looking to fund projects that improve developer experience and community development in the web3 ecosystem. We want to support those who are building the infrastructure and applications that will make it easier for people to use and develop Lit-enabled applications. 
+The Lit grant program is looking to fund projects that improve developer experience and community development in the web3 ecosystem. We want to support those who are building the infrastructure and applications that will make it easier for people to use and develop Lit-enabled applications. 
 
-- **Small grants:** Capped at $x,000, are aimed at projects that are smaller in scope, in early stages or have a short timeline (<3 weeks).
-- **Project Grants:** In depth review process and feedback, no hard limit on the size of the request. Project Grants are targeted toward projects with multiple phases or components, longer timelines, more complex needs and greater financial or operational overhead.
-- **Event sponsorships:** we accept sponsorship requests for events focused on Lit's technology and community through our small grants program.
+## Small grants:
+Capped at $x,000, are aimed at projects that are smaller in scope, in early stages or have a short timeline (<3 weeks). These grants are for smaller teams (individual developers, non-profits, and/or researchers). 
 
-If you have a project that you think would benefit the Lit community, we encourage you to apply for this grant program. We are committed to supporting projects that make a positive impact on the web3 ecosystem, and we look forward to reviewing your proposal!
+Projects are expected to be complete within a month.
+
+## Project Grants
+Do you have a project idea that will advance the Lit Protocol ecosystem? We're looking for projects that will significantly increase Lit Protocol's adoption and open use new use cases for the project.
+
+In depth review process and feedback, no hard limit on the size of the request.
+Project Grants are targeted toward projects with multiple phases, longer timelines, complex needs and greater financial or operational overhead.
+
+## Event sponsorships
+We accept sponsorship requests for events focused on Lit's technology and community through our small grants program.
+
+
+## Out of the box project?
+If you have a project that you think would benefit the Lit community, but don't fit into any of the categories, we encourage you to reach out to our team. We are committed to supporting projects that make a positive impact on the web3 ecosystem, and we look forward to reviewing your proposal!
