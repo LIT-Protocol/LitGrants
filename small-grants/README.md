@@ -2,6 +2,8 @@
 ## About
 We're looking for projects that have implemented Lit and are looking to build additional functionality on their project or support the Lit ecosystem through certain improvements.
 
+Use the tag [grants:small-grants](https://github.com/LIT-Protocol/LitGrants/labels/grants%3Asmall-grants).
+
 ## Audience
 These grants are intended for individuals, small teams, researchers, and educators.
 
@@ -31,5 +33,9 @@ We may also contact you about promoting the resulting work, including coverage o
 * Creativity - stickers and memes
 * Community meetups (online or in person)
 
+## 📋 How to apply
+                                    
+To submit an Small Grant proposal, [create a new issue](https://github.com/LIT-Protocol/LitGrants/issues/new?assignees=&labels=&template=small-grants-application.md&title=Small+Grants%3A+%3CYour+Title+Here%3E) using the Small Grants Proposal template.
+                                                                                                                        
 ## Timeline
 Grants are reviewed on a rolling basis, you should hear back within 2 weeks.
