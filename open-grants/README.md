@@ -22,7 +22,7 @@ Here are some ideas of proposals we have in mind:
 
 ## 📋 How to apply
                                     
-To submit an Open Grant proposal, [create a new issue](https://github.com/LIT-Protocol/LitGrants/issues/new?assignees=debbly&labels=&template=lit-open-grant.md&title=Open+Grant%3A+%3CYour+Project+Here%3E) using the Grants Proposal template.
+To submit an Open Grant proposal, [create a new issue](https://github.com/LIT-Protocol/LitGrants/issues/new?assignees=&labels=&template=open-grants-application.md&title=Open+Grant%3A+%3CYour+Title+Here%3E) using the Grants Proposal template.
                                                                                                                         
 Open Grant proposals are reviewed on a rolling basis, and we will respond within a month.                                                          
 
