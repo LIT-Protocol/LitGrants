@@ -3,7 +3,7 @@
 The Lit grant program is looking to fund projects that improve developer experience and community development in the web3 ecosystem. We want to support those who are building the infrastructure and applications that will make it easier for people to use and develop Lit-enabled applications. 
 
 ## Small Grants
-Capped at $3,000, are aimed at projects that are smaller in scope, in early stages or have a short timeline. These grants are for smaller teams (individual developers, non-profits, and/or researchers). We are looking for projects that have implemented Lit into a project and are looking to prototype or build additional functionality. 
+Capped at $3,000, small grants are aimed at projects that are limited in scope, in early stages or have a short timeline. These grants are for smaller teams (individual developers, non-profits, and/or researchers). We are looking for projects that have implemented Lit into a project and are looking to prototype or build additional functionality. 
 
 Projects are expected to be complete within 2 months.
 
