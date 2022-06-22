@@ -26,6 +26,10 @@ assignees: ''
 
 ### 6. Links and submissions
 * If your project began at a hackathon, have you submitted it for the relevant Lit Protocol prizes? Include links here if available:
+
+### 7. Total Budget Requested
+* Sum up the total requested budget across all milestones, and include that figure here. Also, please include a budget breakdown to specify how you are planning to spend these funds.
+
   
 ### Additional questions:
 * For each team member(s), please list name, email, Github account, and role in the project.
