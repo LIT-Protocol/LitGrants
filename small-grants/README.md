@@ -22,10 +22,11 @@ We may also contact you about promoting the resulting work, including coverage o
 1. Technical Protocol Improvements
 * To make it easier for future builders, we need a rich set of tooling and integrations. Some examples:
 * Infrastructure tooling (node, validator node monitoring)
+* Integration of Lit with web3 and web2 technologies
 * General development
 
 2. New Use Cases & Products
-* MVPs
+* MVPs that extend the capabilities of Lit
 
 3. Community Contributions
 * Creating content (guides, translations, blogs, documentation)

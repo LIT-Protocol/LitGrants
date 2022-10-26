@@ -34,6 +34,6 @@ After you submit your proposal, you can expect the following to occur:
 
 ## ℹ️ Help
 
-Please reach out with any questions on the [Lit Protocol discord](https://discord.gg/wM5g6AKbsH) or email debbie@litprotocol.com with any questions.
+Please reach out with any questions on the [Lit Protocol discord](https://litgateway.com/discord) or email debbie@litprotocol.com with any questions.
 
 Additionally, check out [Lit Protocol](https://litprotocol.com/) or the [Lit Docs](https://developer.litprotocol.com) to learn more about Lit.
