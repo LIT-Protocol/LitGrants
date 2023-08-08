@@ -2,7 +2,7 @@
 
 The Lit grant program is looking to fund projects that improve developer experience and community development in the web3 ecosystem. We want to support those who are building the infrastructure and applications that will make it easier for people to use and develop Lit-enabled applications. 
 
-Get inspired by taking a look at our [Request for Ecosystem Proposals.](https://litprotocol.notion.site/Lit-Request-for-Ecosystem-Proposals-ae3f31e7f32c413cbe0b36c2fe53378d)
+Get inspired by taking a look at our [Ecosystem Ideas](https://github.com/orgs/LIT-Protocol/projects/2) page.
 
 ## Small Grants
 Capped at $2.5K USD, small grants are aimed at projects that are limited in scope, in early stages or have a short timeline. These grants are for smaller teams (individual developers, non-profits, and/or researchers). We are looking for projects that have implemented Lit into a project and are looking to prototype or build additional functionality. 
