@@ -4,7 +4,7 @@ Do you have a project idea that will advance the Lit Protocol ecosystem?
 We're looking for projects that will significantly increase Lit Protocol's adoption and create new use cases for the protocol.
 
 ## Criteria
-**In order to receive a grant, the project must be built with Lit's [Programmable Key Pair](https://developer.litprotocol.com/pkp/intro) and [Lit Actions](https://developer.litprotocol.com/LitActions/intro) features.**
+**In order to receive a grant, the project must be built with Lit's [Programmatic Signing](https://developer.litprotocol.com/v2/pkp/intro) feature.**
 
 Proposals should include deliverables, milestones, and funding requests. At this current time, the team is capping grants at $10K USDC. If you need more funding than what we can provide, we will try our best help source funding from additional partners.
 
